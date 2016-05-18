@@ -19,9 +19,12 @@ for making GUI : PyQt4,WxPython,PyGtk</br>
 for scientific computtion : Numpy,SCiPy,matplot</br>
 for web-development : [Django](https://www.djangoproject.com) etc.
 
-#Installing Libraries : 
+###Installing other Libraries : 
 For installing those packages or libraries we can use pip . pip is a package management system used to install and manage software packages written in Python . 
 To install a python libraries using pip </br>
 in ubuntu : 
-#####sudo pip install <LibraryName>
+#####sudo pip install LibraryName
 	for eg: sudo pip install django
+in windows : 
+#####pip install LibraryName
+	for eg: pip install django
