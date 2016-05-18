@@ -22,5 +22,6 @@ for web-development : [Django](https://www.djangoproject.com) etc.
 #Installing Libraries : 
 For installing those packages or libraries we can use pip . pip is a package management system used to install and manage software packages written in Python . 
 To install a python libraries using pip </br>
-in ubuntu : #####sudo pip install <LibraryName>
+in ubuntu : 
+#####sudo pip install <LibraryName>
 	for eg: sudo pip install django
