@@ -3,8 +3,8 @@ Python is a widely used general-purpose,interpreted,dynamic,high-level programmi
 
 #Python installation 
 #In ubuntu / Linux Mint : 
-Python is preinstalled in Ubuntu / Ubuntu derivatives . 
-To install python if u don't have , we can use apt-get metheod .
+Python is preinstalled in Ubuntu / Ubuntu derivatives . </br>
+To install python if u don't have , we can use apt-get metheod .</br>
 sudo apt-get install python2.7 
 #In Windows  : 
 first go and download Python installer from [python official site](https://www.python.org/downloads/windows/) and install it 
