@@ -1,11 +1,14 @@
 # Python-Learning-
+
+![python-logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 Python is a widely used general-purpose,interpreted,dynamic,high-level programming language . It is very simple to learn . Its syntax allows us to express concepts/algorithms in fewer lines of code than would be possible in language such as C/C++ or Java etc. 
 
 #Python installation 
-#In ubuntu / Linux Mint : 
+###In ubuntu / Linux Mint : 
 Python is preinstalled in Ubuntu / Ubuntu derivatives.If u don't have python , we can use apt-get metheod .</br>
 #####sudo apt-get install python2.7 
-#In Windows  : 
+###In Windows  : 
 first go and download Python installer from [python official site](https://www.python.org/downloads/windows/) and install it 
 
 There are lot of libraries available for Python . for example , 
