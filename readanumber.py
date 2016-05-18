@@ -1,4 +1,4 @@
-num=input("enter a number from (0-9): ")
+num=input("enter a number from (0-9): ")#enter the digit
 if num==0:
  print "number is ZERO"
 elif num==1:
