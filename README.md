@@ -3,16 +3,16 @@ Python is a widely used general-purpose,interpreted,dynamic,high-level programmi
 
 #Python installation 
 #In ubuntu / Linux Mint : 
-	Python is preinstalled in Ubuntu / Ubuntu derivatives . 
-	To install python if u don't have , we can use apt-get metheod .
-	sudo apt-get install python2.7 
+Python is preinstalled in Ubuntu / Ubuntu derivatives . 
+To install python if u don't have , we can use apt-get metheod .
+sudo apt-get install python2.7 
 #In Windows  : 
-	first go and download Python installer from [python official site](https://www.python.org/downloads/windows/) and install it 
+first go and download Python installer from [python official site](https://www.python.org/downloads/windows/) and install it 
 
 There are lot of libraries available for Python . for example for image processing Opencv libraries are available . 
 for machine learning : scikit , for natural language processing : NLTK  , for making GUI : PyQt4,WxPython,PyGtk
 for scientific computtion : Numpy,SCiPy,matplot , web-framework : Django etc.
 
 #Installing Libraries : 
-	For installing those packages or libraries we can use pip . pip is a package management system used to install and manage software packages written in Python . 
-	To install it
+For installing those packages or libraries we can use pip . pip is a package management system used to install and manage software packages written in Python . 
+To install it
